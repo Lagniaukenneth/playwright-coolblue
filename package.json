@@ -1,0 +1,23 @@
+{
+  "name": "playwright-coolblue",
+  "version": "1.0.0",
+  "description": "Some automation for coolblue",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lagniaukenneth/playwright-coolblue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Lagniaukenneth/playwright-coolblue/issues"
+  },
+  "homepage": "https://github.com/Lagniaukenneth/playwright-coolblue#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "@types/node": "^24.7.0"
+  }
+}
